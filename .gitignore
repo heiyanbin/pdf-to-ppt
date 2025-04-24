@@ -98,6 +98,8 @@ venv.bak/
 
 # Output files
 output_*.pptx
+content.txt
+content.md
 
 # Local development files
 *.local
