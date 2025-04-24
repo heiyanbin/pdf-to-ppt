@@ -1,4 +1,4 @@
-# PDF/TXT to PPT Converter
+# PDF/TXT to PPT Converter (Vibe-Coded Project)
 
 A Python CLI tool that converts PDF or text files to PowerPoint presentations using OpenAI-compatible APIs for content extraction and Llama Cloud for PDF parsing.
 
