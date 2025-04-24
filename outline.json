@@ -1,0 +1,74 @@
+{
+  "slides": [
+    {
+      "title": "Introduction",
+      "content": [
+        "Large language models enable complex, multi-step tasks",
+        "Agents are LLM-powered systems for workflow automation",
+        "Guide provides practical best practices for building agents",
+        "Aims to help product and engineering teams start confidently"
+      ],
+      "layout_type": "title_bullets"
+    },
+    {
+      "title": "What is an Agent?",
+      "content": [
+        "Systems that independently accomplish tasks on user's behalf",
+        "Leverage LLMs to manage workflow execution and decisions",
+        "Have access to tools to interact with external systems",
+        "Not simple chatbots or single-turn LLMs"
+      ],
+      "layout_type": "title_bullets"
+    },
+    {
+      "title": "When to Build an Agent",
+      "content": [
+        "Prioritize workflows resistant to traditional automation",
+        "Complex decision-making with nuanced judgment",
+        "Difficult-to-maintain rules with extensive rulesets",
+        "Heavy reliance on unstructured data interpretation"
+      ],
+      "layout_type": "title_bullets"
+    },
+    {
+      "title": "Agent Design Foundations",
+      "content": [
+        "Core components: Model, Tools, Instructions",
+        "Model selection based on task complexity and cost",
+        "Tools extend capabilities (Data, Action, Orchestration)",
+        "Clear instructions reduce ambiguity and improve execution"
+      ],
+      "layout_type": "title_bullets"
+    },
+    {
+      "title": "Orchestration Patterns",
+      "content": [
+        "Single-agent systems: Manage complexity with tools",
+        "Multi-agent systems: Manager or Decentralized patterns",
+        "Manager pattern: Central coordination of specialized agents",
+        "Decentralized pattern: Peer agents hand off tasks"
+      ],
+      "layout_type": "title_bullets"
+    },
+    {
+      "title": "Guardrails",
+      "content": [
+        "Layered defense: LLM-based, rules-based, moderation",
+        "Types: Relevance, Safety, PII filters, Tool safeguards",
+        "Output validation for brand alignment",
+        "Plan for human intervention in high-risk scenarios"
+      ],
+      "layout_type": "title_bullets"
+    },
+    {
+      "title": "Conclusion",
+      "content": [
+        "Agents automate complex workflows with autonomy",
+        "Start small with strong foundations and guardrails",
+        "Iterative approach for successful deployment",
+        "Combine intelligence with safety measures"
+      ],
+      "layout_type": "title_bullets"
+    }
+  ]
+}
